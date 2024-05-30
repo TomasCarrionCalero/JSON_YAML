@@ -7,7 +7,7 @@
 - [¿Qué_es_YAML?](#¿Qué_es_YAML?)
 - [Características](#Características)
 - [Cuándo_usaR_YAML_en_lugar_de_JSON](#Cuándo_usar_YAML_en_lugar_de_JSON)
-- [Ejemplo de YAML](#Ejemplo de YAML)
+- [Ejemplo_de_YAML](#Ejemplo_De_YAML)
 
 
 ### INTRODUCCIÓN
