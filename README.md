@@ -8,10 +8,7 @@ YAML (YAML Ain't Markup Language) es un formato de serialización de datos que s
 
 ### Características Principales
 - ***Legible por humanos***: Diseñado para ser fácil de leer y escribir.
-- **Formato de datos**: Utiliza sangrías para representar la estructura de los datos.
-- **Soporte para datos complejos**: Admite listas, mapas y escalas.
-- **Comentarios**: Permite comentarios, que se inician con el carácter `#`.
-
+- ***Formato de datos***: Utiliza sangrías para representar la estructura de los datos.
 
 ### Ejemplo de YAML
 ```YAML
