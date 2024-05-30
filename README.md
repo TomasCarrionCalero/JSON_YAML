@@ -13,7 +13,7 @@ YAML (YAML Ain't Markup Language) es un formato de serialización de datos que s
 ### Ejemplo de YAML
 ```YAML
 {
-  nombre: Pepe
+nombre: Pepe
 edad: 12  
 ciudad: Bocairent
 curso: Sexto de primaria
@@ -32,8 +32,8 @@ Qué es JSON? JSON es un formato de texto que forma parte del sistema de JavaScr
 ### Ejemplo de JSON
 ```json
 {
-  "nombre": "",
-  "edad": ,
-  "ciudad": "",
+  "nombre": "Pepe",
+  "edad": 12,
+  "ciudad": "Bocairent",
 }
 
