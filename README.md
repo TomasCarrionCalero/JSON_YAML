@@ -6,20 +6,18 @@ YAML y JSON son dos formatos de serialización de datos que proporcionan un meca
 ### ¿Qué es YAML?
 YAML (YAML Ain't Markup Language) es un formato de serialización de datos que se utiliza para archivos de configuración y transmisión de datos entre aplicaciones. Es conocido por ser simple y legible.
 
-### Características Principales
+### Características
 - ***Legible por humanos***: Diseñado para ser fácil de leer y escribir.
 - ***Formato de datos***: Utiliza sangrías para representar la estructura de los datos.
 
 ### Ejemplo de YAML
 ```YAML
 {
-  nombre: 
-edad: 
-ciudad: 
-hobbies:
-  - musica
-  - fotos
-  - deporte
+  nombre: Pepe
+edad: 12  
+ciudad: Bocairent
+curso: Sexto de primaria
+  - un crack
 }
 
 ## JSON
