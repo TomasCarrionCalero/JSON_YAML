@@ -6,8 +6,8 @@ YAML y JSON son dos formatos de serialización de datos que proporcionan un meca
 #### ¿Qué es YAML?
 YAML es un lenguaje de serialización de datos que se usa para escribir archivos de configuración para la implementación de infraestructura. Por ejemplo, si quiere implementar una aplicación de Docker en Kubernetes, tendrá que usar un archivo YAML para configurar la instancia
 #### Características
-- ***Legible por humanos***: Diseñado para ser fácil de leer y escribir.
-- ***Formato de datos***: Utiliza sangrías para representar la estructura de los datos.
+- *Legible por humanos*: Diseñado para ser fácil de leer y escribir.
+- *Formato de datos*: Utiliza sangrías para representar la estructura de los datos.
 
 #### Ejemplo de YAML
 ```YAML
