@@ -6,8 +6,8 @@
 - [YAML](#YAML)
 - [¿Qué_es_YAML?](#¿Qué_es_YAML?)
 - [Características](#Características)
-- [Cuándo_usaR_YAML_en_lugar_de_JSON](#Cuándo_usar_YAML_en_lugar_de_JSON)
-- [Ejemplo_de_YAML](#Ejemplo_De_YAML)
+- [Cuándo_usar_YAML_en_lugar_de_JSON](#Cuándo_usar_YAML_en_lugar_de_JSON)
+- [Ejemplo_De_YAML](#Ejemplo_De_YAML)
 
 
 ### INTRODUCCIÓN
@@ -29,7 +29,7 @@ Aunque YAML pueda parecer una mejor opción en función de la tipificación de d
 Por otro lado, YAML ha ganado una fuerte presencia en determinados ámbitos de la computación debido a su legibilidad y soporte de comentarios. En particular, YAML es el principal formato de serialización de datos para archivos de configuración en muchas herramientas y servicios de automatización, DevOps e infraestructura como código (IaC). Por ejemplo, YAML se usa a menudo en archivos de Docker y Kubernetes.
 
 
-### Ejemplo de YAML
+### Ejemplo De YAML
 ```YAML
 {
 nombre: Pepe
