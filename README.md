@@ -36,3 +36,10 @@ Qué es JSON? JSON es un formato de texto que forma parte del sistema de JavaScr
   "ciudad": "Bocairent",
 }
 
+###Cuándo usar YAML en lugar de JSON
+
+Gracias al soporte generalizado y la integración con JavaScript, JSON es un formato de serialización de datos más popular que YAML para la mayoría de los casos de uso. JSON se usa ampliamente en comunicaciones de software distribuidas, aplicaciones web, archivos de configuración y API.
+
+Aunque YAML pueda parecer una mejor opción en función de la tipificación de datos y su formato legible por humanos, normalmente se prefiere JSON por motivos de compatibilidad cruzada. Esto se debe a que muchas aplicaciones y servicios ya analizan el formato de datos JSON.
+
+Por otro lado, YAML ha ganado una fuerte presencia en determinados ámbitos de la computación debido a su legibilidad y soporte de comentarios. En particular, YAML es el principal formato de serialización de datos para archivos de configuración en muchas herramientas y servicios de automatización, DevOps e infraestructura como código (IaC). Por ejemplo, YAML se usa a menudo en archivos de Docker y Kubernetes.
