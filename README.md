@@ -9,7 +9,7 @@ YAML es un lenguaje de serialización de datos que se usa para escribir archivos
 - *Legible por humanos*: Diseñado para ser fácil de leer y escribir.
 - *Formato de datos*: Utiliza sangrías para representar la estructura de los datos.
 
-###Cuándo usar YAML en lugar de JSON
+### Cuándo usar YAML en lugar de JSON
 
 Gracias al soporte generalizado y la integración con JavaScript, JSON es un formato de serialización de datos más popular que YAML para la mayoría de los casos de uso. JSON se usa ampliamente en comunicaciones de software distribuidas, aplicaciones web, archivos de configuración y API.
 
