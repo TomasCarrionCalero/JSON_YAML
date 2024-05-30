@@ -13,7 +13,7 @@
 ### INTRODUCCIÓN
 YAML y JSON son dos formatos de serialización de datos que proporcionan un mecanismo de intercambio de datos legible por humanos. Dan formato a los datos de manera estandarizada para su intercambio entre aplicaciones de software, y su texto también es legible por humanos.
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([https://myoctocat.com/assets/images/base-octocat.svg](https://imagenes.20minutos.es/files/image_640_360/uploads/imagenes/2024/03/05/diakhaby.jpeg))
+![Diakhaby]([https://myoctocat.com/assets/images/base-octocat.svg](https://imagenes.20minutos.es/files/image_640_360/uploads/imagenes/2024/03/05/diakhaby.jpeg))
 
 ### YAML
 ### ¿Qué es YAML?
